@@ -41,8 +41,8 @@
     }
   }
   
-  .ButtonLink {
-    .Logo {
+  .ButtonLink .Logo{
+
     max-width: 168px;
   }
   @media (max-width: 800px) {
