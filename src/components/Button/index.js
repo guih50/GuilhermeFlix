@@ -18,6 +18,7 @@ const Button = styled.button`
     &:hover,
     &:focus {
     opacity: .5;
+    }
 `;
 
 export default Button;
