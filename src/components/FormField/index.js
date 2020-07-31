@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
@@ -59,7 +58,6 @@ const Input = styled.input`
   &:focus:not([type='color']) + ${Label.Text} {
     transform: scale(.6) translateY(-10px);
   }
-
   ${({ value }) => {
     const hasValue = value.length > 0;
     return hasValue && css`
@@ -74,23 +72,17 @@ const Input = styled.input`
 function FormField({
   label, type, name, value, onChange,
 }) {
-  const fieldId = `id_${name}`;
   const isTypeTextArea = type === 'textarea';
   const tag = isTypeTextArea ? 'textarea' : 'input';
 
-  const hasValue = Boolean(value.length);
-
   return (
     <FormFieldWrapper>
-      <Label
-        htmlFor={fieldId}
-      >
+      <Label>
         <Input
           as={tag}
           type={type}
           value={value}
           name={name}
-          hasValue={hasValue}
           onChange={onChange}
         />
         <Label.Text>
