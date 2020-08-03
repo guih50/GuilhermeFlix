@@ -35,7 +35,6 @@ function Home() {
                 videoDescription={dadosIniciais[0].videos[0].description}
               />
               <Carousel
-                ignoreFirstVideo
                 category={dadosIniciais[0]}
               />
             </div>

@@ -2,43 +2,65 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Internacionais",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Musicas Mais Tocadas Pelo Mundo em Maio de 2020",
+        "url": "https://maistocadas.mus.br/musicas-internacionais/"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Sertanejo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Sertanejos Mais Tocadas em Maio de 2020",
+        "url": "https://maistocadas.mus.br/musicas-sertanejas/"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Pagode",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Pagodes Mais Tocados em Maio de 2020",
+        "url": "https://maistocadas.mus.br/pagode-samba/"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Pop Nacional",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Pop Nacional Mais Tocados em Maio de 2020",
+        "url": "https://maistocadas.mus.br/pop/"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "Funk",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Funks Mais Tocados em Maio de 2020",
+        "url": "https://maistocadas.mus.br/musicas-funks/"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Rap e Hip-Hop",
+      "cor": "red",
+      "link_extra": {
+        "text": "Raps/Hip-Hops Mais Tocados em Maio de 2020",
+        "url": "https://maistocadas.mus.br/rap-hip-hop/"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "AMV",
+      "cor": "red",
+      "link_extra": {
+        "text": "AMV's de Animes Mais Vizualizados",
+        "url": ""
       }
     }
   ],
@@ -46,146 +68,422 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "#1 Dancey Monkey",
+      "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "#2 Don't Start Now",
+      "url": "https://www.youtube.com/watch?v=oygrmJFKYZY"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "#3 Say So",
+      "url": "https://www.youtube.com/watch?v=LmnCBjj-YyI"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "#4 Rain On Me",
+      "url": "https://www.youtube.com/watch?v=tvlrveiqDhc"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "#5 Someone You Loved",
+      "url": "https://www.youtube.com/watch?v=u1yVCeXYya4"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "#6 Señorita",
+      "url": "https://www.youtube.com/watch?v=3NcL3yUK4S0"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "#7 Circles",
+      "url": "https://www.youtube.com/watch?v=0sca9FP6zl8"
     },
     {
       "id": 8,
-      "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "categoriaId": 1,
+      "titulo": "#8 Break My Heart",
+      "url": "https://www.youtube.com/watch?v=Nj2U6rhnucI"
     },
     {
       "id": 9,
-      "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "categoriaId": 1,
+      "titulo": "#9 Bliding Lights",
+      "url": "https://www.youtube.com/watch?v=J7p4bzqLvCw"
     },
     {
       "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "categoriaId": 1,
+      "titulo": "#10 Yummy",
+      "url": "https://www.youtube.com/watch?v=0pAkIrJfwao"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "titulo": "#1 Ainda Tô Aí",
+      "url": "https://www.youtube.com/watch?v=pTjjxYzne60"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "titulo": "#2 Com ou Sem Mim",
+      "url": "https://www.youtube.com/watch?v=htc1z4Uv0HA"
     },
     {
       "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "categoriaId": 2,
+      "titulo": "#3 Liberdade Provisória",
+      "url": "https://www.youtube.com/watch?v=ff3r10rCKFs"
     },
     {
       "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "categoriaId": 2,
+      "titulo": "#4 Graveto",
+      "url": "https://www.youtube.com/watch?v=CKtHg1jBREY"
     },
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 2,
+      "titulo": "#5 Amoreco",
+      "url": "https://www.youtube.com/watch?v=bJ-LjsUwkik"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 2,
+      "titulo": "#6 A Gente Fez Amor",
+      "url": "https://www.youtube.com/watch?v=SvQx5FMEVmE"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 2,
+      "titulo": "#7 Saudade Sua",
+      "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 2,
+      "titulo": "#8 Barzinho aleatório",
+      "url": "https://www.youtube.com/watch?v=hjc1dCyodG4"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 2,
+      "titulo": "#9 Litrão",
+      "url": "https://www.youtube.com/watch?v=DfdN9tII0kw"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 2,
+      "titulo": "#10 Cheirosa",
+      "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM"
     },
     {
       "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "categoriaId": 3,
+      "titulo": "#1 Deixa Pra Amanhã",
+      "url": "https://www.youtube.com/watch?v=LAzcBR4DD3o"
     },
     {
       "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "categoriaId": 3,
+      "titulo": "#2 A Fila Anda",
+      "url": "https://www.youtube.com/watch?v=TMr_83laADw"
     },
     {
       "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "categoriaId": 3,
+      "titulo": "#3 O brasil Tem que Ver",
+      "url": "https://www.youtube.com/watch?v=o8z3TYFCMYM"
     },
     {
       "id": 24,
+      "categoriaId": 3,
+      "titulo": "#4 Sinal Vital",
+      "url": "https://www.youtube.com/watch?v=ckm3330dC6Y"
+    },
+    {
+      "id": 25,
+      "categoriaId": 3,
+      "titulo": "#5 A culpa é do Coração",
+      "url": "https://www.youtube.com/watch?v=qAAU7gwFWrA"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "#6 Não Vai Embora",
+      "url": "https://www.youtube.com/watch?v=Ds2euWaSH5o"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "#7 Segundo Plano",
+      "url": "https://www.youtube.com/watch?v=Xxe9f_XzLE4"
+    },
+    {
+      "id": 28,
+      "categoriaId": 3,
+      "titulo": "#8 Mantra",
+      "url": "https://www.youtube.com/watch?v=nj2MJw9qx9k"
+    },
+    {
+      "id": 29,
+      "categoriaId": 3,
+      "titulo": "#9 Péssimo Negócio",
+      "url": "https://www.youtube.com/watch?v=4uQi5XvGI1M"
+    },
+    {
+      "id": 30,
+      "categoriaId": 3,
+      "titulo": "#10 Onze e Pouquinho",
+      "url": "https://www.youtube.com/watch?v=ntFN_xg5Zo4"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "#1 Braba",
+      "url": "https://www.youtube.com/watch?v=axzCKcEmU3Y"
+    },
+    {
+      "id": 32,
+      "categoriaId": 4,
+      "titulo": "#2 Menina Solta",
+      "url": "https://www.youtube.com/watch?v=vz9XHsctOtc"
+    },
+    {
+      "id": 33,
+      "categoriaId": 4,
+      "titulo": "#3 Amor de Que",
+      "url": "https://www.youtube.com/watch?v=4zJ4i6Az2Ck"
+    },
+    {
+      "id": 34,
+      "categoriaId": 4,
+      "titulo": "#4 Bomba Relógio",
+      "url": "https://www.youtube.com/watch?v=OdkKLahZ0SM"
+    },
+    {
+      "id": 35,
+      "categoriaId": 4,
+      "titulo": "#5 Dona de Mim",
+      "url": "https://www.youtube.com/watch?v=FnGfgb_YNE8"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "titulo": "#6 Meu Abrigo",
+      "url": "https://www.youtube.com/watch?v=Xy-MRoTHovA"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "titulo": "#7 Downtown",
+      "url": "https://www.youtube.com/watch?v=wlS6Ix7mA0w"
+    },
+    {
+      "id": 38,
+      "categoriaId": 4,
+      "titulo": "#8 Parabéns",
+      "url": "https://www.youtube.com/watch?v=RAQmKOsonhc"
+    },
+    {
+      "id": 39,
+      "categoriaId": 4,
+      "titulo": "#9 Dois Corações",
+      "url": "https://www.youtube.com/watch?v=vZhwva-AisM"
+    },
+    {
+      "id": 40,
+      "categoriaId": 4,
+      "titulo": "#10 (Não) Era Amor",
+      "url": "https://www.youtube.com/watch?v=Ue5UlTJ5-is"
+    },
+    {
+      "id": 41,
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "#1 Te Prometo",
+      "url": "https://www.youtube.com/watch?v=xJH9kYQ3mjg"
+    },
+    {
+      "id": 42,
+      "categoriaId": 5,
+      "titulo": "#2 Vai Ter que Aguentar",
+      "url": "https://www.youtube.com/watch?v=l_WaU31QZME"
+    },
+    {
+      "id": 43,
+      "categoriaId": 5,
+      "titulo": "#3 Tudo no Sigilo",
+      "url": "https://www.youtube.com/watch?v=9pBws6pwY-E"
+    },
+    {
+      "id": 44,
+      "categoriaId": 5,
+      "titulo": "#4 Tudo Aconteceu",
+      "url": "https://www.youtube.com/watch?v=bnGipCxWC5w"
+    },
+    {
+      "id": 45,
+      "categoriaId": 5,
+      "titulo": "#5 Te Gusta",
+      "url": "https://www.youtube.com/watch?v=ndQ4hf17CyY"
+    },
+    {
+      "id": 46,
+      "categoriaId": 5,
+      "titulo": "#6 Bum Bum Tam Tam",
+      "url": "https://www.youtube.com/watch?v=_P7S2lKif-A"
+    },
+    {
+      "id": 47,
+      "categoriaId": 5,
+      "titulo": "#7 Positividade",
+      "url": "https://www.youtube.com/watch?v=TT2-_L06FKc"
+    },
+    {
+      "id": 48,
+      "categoriaId": 5,
+      "titulo": "#8 O Amor Tu Perdeu",
+      "url": "https://www.youtube.com/watch?v=o2nLhpdfMu0"
+    },
+    {
+      "id": 49,
+      "categoriaId": 5,
+      "titulo": "#9 Motoloka",
+      "url": "https://www.youtube.com/watch?v=UrWLm7JkPtg"
+    },
+    {
+      "id": 50,
+      "categoriaId": 5,
+      "titulo": "#10 Bate Palma",
+      "url": "https://www.youtube.com/watch?v=Faghjz8Rew4"
+    },
+    {
+      "id": 51,
+      "categoriaId": 6,
+      "titulo": "#1 Era Uma Vez",
+      "url": "https://www.youtube.com/watch?v=jK2k1P56Cno"
+    },
+    {
+      "id": 52,
+      "categoriaId": 6,
+      "titulo": "#2 Sobre Nós",
+      "url": "https://www.youtube.com/watch?v=bD6ifecX6rs"
+    },
+    {
+      "id": 53,
+      "categoriaId": 6,
+      "titulo": "#3 Amor de Fim de Noite",
+      "url": "https://www.youtube.com/watch?v=jBE_X3cMCyM"
+    },
+    {
+      "id": 54,
+      "categoriaId": 6,
+      "titulo": "#4 Imprevisível",
+      "url": "https://www.youtube.com/watch?v=YrQLmElRT-E"
+    },
+    {
+      "id": 55,
+      "categoriaId": 6,
+      "titulo": "#5 Paris",
+      "url": "https://www.youtube.com/watch?v=z6_tNgUEZe4"
+    },
+    {
+      "id": 56,
+      "categoriaId": 6,
+      "titulo": "#6 Made in Favela",
+      "url": "https://www.youtube.com/watch?v=TaChAVNEDPU"
+    },
+    {
+      "id": 57,
+      "categoriaId": 6,
+      "titulo": "#7 Céu Azul",
+      "url": "https://www.youtube.com/watch?v=G4eTjFvp8CU"
+    },
+    {
+      "id": 58,
+      "categoriaId": 6,
+      "titulo": "#8 Lembranças",
+      "url": "https://www.youtube.com/watch?v=EiQmbrvvDaY"
+    },
+    {
+      "id": 59,
+      "categoriaId": 6,
+      "titulo": "#9 Kenny G",
+      "url": "https://www.youtube.com/watch?v=b-PhvPKgWjY"
+    },
+    {
+      "id": 60,
+      "categoriaId": 6,
+      "titulo": "#10 Capricorniana",
+      "url": "https://www.youtube.com/watch?v=DjNqxTODmuc"
+    },
+    {
+      "id": 61,
+      "categoriaId": 7,
+      "titulo": "You Can Be King Again -Hotarubi no Mori",
+      "url": "https://www.youtube.com/watch?v=VNdHd1asf9s"
+    },
+    {
+      "id": 62,
+      "categoriaId": 7,
+      "titulo": "Courtesy Call -Dragon Ball Super",
+      "url": "https://www.youtube.com/watch?v=yLN9tGbGlz8"
+    },
+    {
+      "id": 63,
+      "categoriaId": 7,
+      "titulo": "Goku vs Gohan Centuries -Dragon Ball Super",
+      "url": "https://www.youtube.com/watch?v=mMEb9iYQNXI"
+    },
+    {
+      "id": 64,
+      "categoriaId": 7,
+      "titulo": "SURGIR -Koe No Katachi",
+      "url": "https://www.youtube.com/watch?v=IGADP2i1ItQ"
+    },
+    {
+      "id": 65,
+      "categoriaId": 7,
+      "titulo": "Goku Vs Jiren Get Me Out -Dragon Ball Super",
+      "url": "https://www.youtube.com/watch?v=OSyKhqDsW14"
+    },
+    {
+      "id": 66,
+      "categoriaId": 7,
+      "titulo": "Godsuya the Immortal -Mahouka",
+      "url": "https://www.youtube.com/watch?v=02_nNaMzPZE"
+    },
+    {
+      "id": 67,
+      "categoriaId": 7,
+      "titulo": "Adam Lambert Runnin -Boruto",
+      "url": "https://www.youtube.com/watch?v=7BcZclWDnso"
+    },
+    {
+      "id": 68,
+      "categoriaId": 7,
+      "titulo": "Mega Charizard X vs Mega Charizard Y -Pokemon",
+      "url": "https://www.youtube.com/watch?v=sb9kqjD0etw"
+    },
+    {
+      "id": 69,
+      "categoriaId": 7,
+      "titulo": "Sparkle -Your Name",
+      "url": "https://www.youtube.com/watch?v=K_7To_y9IAM"
+    },
+    {
+      "id": 70,
+      "categoriaId": 7,
+      "titulo": "Obito Uchiha Behind The Mask -Naruto",
+      "url": "https://www.youtube.com/watch?v=a2eLSLIT0U4"
     }
   ]
 }
